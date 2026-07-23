@@ -1,7 +1,7 @@
 ---
 #TODO swap this for variable
 #ref https://learn.netlify.com/en/
-title: "Amazon DynamoDB Immersion Day"
+title: "Amazon DynamoDB Immersion Day testing @kollvisw"
 chapter: true
 weight: 1
 ---
