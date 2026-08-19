@@ -63,7 +63,7 @@ When you receive a response, you assemble the data entities into objects known b
 
 The end of the script shows the usage of the function and prints out the resulting objects.
 
-You can run the script in the Cloud9 Terminal with the following command:
+You can run the script in the VS Code Terminal with the following command:
 
 ```sh
 python scripts/fetch_game_and_players.py
